@@ -1,5 +1,5 @@
 # Color-Selector-Game-Simon-Game-
-This Project I have made the Help Of the jQuerry .......
+This Project I have made the Help Of the jQuerry .......<br>
 <b>This Project I have made by The Help of the Following things :--</b>
 <h2>HTML</h2>
 <p><b>HTML is the base of any web application or web page. It helps to display the data in formatted manner like heading, paragraph and links which is easy for layman to read and interact with your product information/data.</b></p>
