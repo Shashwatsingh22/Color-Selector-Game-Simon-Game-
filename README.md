@@ -10,4 +10,4 @@
 <p><b>jQuery is a cross-browser JavaScript library designed to simplify the client-side scripting of HTML</b></p>
 <h2> Have Look On the ScreenShot........</h2>
 <img src=images/1.png></img>
-Link->
+Link->https://shashwatsingh22.github.io/Color-Selector-Game-Simon-Game-/
